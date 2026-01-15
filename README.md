@@ -16,6 +16,9 @@ A CRUD-based Employee Management API built with Django and Django REST Framework
 - SimpleJWT
 - SQLite
 
+## Live Demo
+https://hari123.pythonanywhere.com
+
 ## Setup
 ```bash
 pip install -r requirements.txt
